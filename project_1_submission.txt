@@ -81,4 +81,4 @@ Q79::0
 Q80::-36930
 Q81::
 Q82::0.5
-Q83::
+Q83::The loads of the outer trusses will equal half the loads of the inner truss because the tributary areas are half the tributary area belonging to the inner truss.
