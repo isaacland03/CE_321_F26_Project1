@@ -1,5 +1,5 @@
 PartialCredit::F
-Q1::
+Q1::T
 Q2::29000000
 Q3::4.71
 Q4::16
@@ -21,7 +21,7 @@ Q19::89.9
 Q20::179.8
 Q21::179.8
 Q22::179.8
-Q23::
+Q23::T
 Q24::404
 Q25::809
 Q26::809
@@ -54,7 +54,7 @@ Q52::3451
 Q53::5196
 Q54::5196
 Q55::5542
-Q56::
+Q56::T
 Q57::0
 Q58::16610
 Q59::16610
@@ -79,6 +79,6 @@ Q77::-7290
 Q78::34510
 Q79::0
 Q80::-36930
-Q81::
+Q81::T
 Q82::0.5
 Q83::The loads of the outer trusses will equal half the loads of the inner truss because the tributary areas are half the tributary area belonging to the inner truss.
